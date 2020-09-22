@@ -1,2 +1,5 @@
 # WebTech
-LAISNEY - LEVY
+
+First Node & Git project
+
+LAISNEY Anne-Claire - LEVY Elia
